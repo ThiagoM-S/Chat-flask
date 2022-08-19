@@ -1,6 +1,6 @@
 from socket  import *
 
-socket = io.connect('http://' + document.domain + ':' + location.port)
+socket = id.connect('http://' + document.domain + ':' + location.port)
 
 def function(e):
         e.preventDefault()
